@@ -20,3 +20,5 @@ INSERT INTO order_lines (quantity, unit_price) VALUES
     (5, 8),
     (4, 12);
 
+
+SELECT SYSDATE FROM DUAL;
