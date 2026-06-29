@@ -23,3 +23,5 @@ INSERT INTO employees (emp_id, name, dept_id, salary, hired_on) VALUES
     (103, 'Priya Shah', 2, 68000.00, '2021-09-27'),
     (104, 'Jordan Kim', 3, 72000.00, '2024-03-18'),
     (105, 'Sophia Brooks', 4, 79000.00, '2022-11-02');
+
+INTERVAL YEAR TO MONTH
